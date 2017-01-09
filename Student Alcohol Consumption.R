@@ -1,5 +1,5 @@
 #Load the files
-studentmath <- read.csv("c:/users/alex/desktop/R/exercise data/Student Alcohol Consumption/student-mat.csv", header = T)
+studentmath <- read.csv(".../input/student-mat.csv", header = T)
 
 #Load packages
 library(dplyr)
